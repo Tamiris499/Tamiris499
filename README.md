@@ -1,16 +1,16 @@
-## Hi there 👋
+Olá! Sou Tamires Santos.
 
-<!--
-**Tamiris499/Tamiris499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formada em Análise e Desenvolvimento de Sistemas e tenho capacitação em Análise de Dados.
 
-Here are some ideas to get you started:
+🔹 Python
+🔹 SQL
+🔹 Google Planilhas
+🔹 Git e GitHub
+🔹 Análise Exploratória de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projetos em destaque:
+📊 Análise de Mercado de Ações
+🚦 Análise de Acidentes de Trânsito
+🧮 Calculadora em Python
+
+📫 LinkedIn: linkedin.com/in/tamiressantos318
