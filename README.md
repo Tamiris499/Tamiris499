@@ -1,4 +1,4 @@
-Olá! Sou Tamires Santos.
+Olá! Sou Tamiris Santos.
 
 Sou formada em Análise e Desenvolvimento de Sistemas e tenho capacitação em Análise de Dados.
 
